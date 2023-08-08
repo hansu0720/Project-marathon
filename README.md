@@ -22,11 +22,10 @@ Duration: 2023.06.12~2022.06.30
   - 기록 데이터를 기반으로 사용자별 점수를 기록하는 시스템은 데이터 유실을 막기 위해 느슨하게 결합되어야합니다.
   - 시스템 메트릭 또는 저장된 데이터에 대한 하나 이상의 시각화된 모니터링 시스템이 구축되어야합니다.
   ```
-## Description
-- 일단 패스 
 
 ## Architecture
-![image](https://github.com/cs-devops-bootcamp/devops-04-Final-Team3/assets/35091494/9df3e687-ad29-4cf6-8b27-3b3034a5c5e0)
+![image](https://github.com/hansu0720/Project-marathon/assets/126456324/fec41a39-008a-4cb5-8d76-29720e25e1d0)
+
 
 ## **Environment**  
 ### <div style="display:flex; flex-direction:row;"> OS : <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align: middle;">
